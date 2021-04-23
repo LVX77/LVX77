@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LVX77
-- 👀 I’m interested in be software engineering and cybersecurity
+- 👀 I’m interested in be software engineer and cybersecurity
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me vitorgmb2000@hotmail.com or (11) 9 96387-4178
 
