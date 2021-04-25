@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LVX77
 - 👀 I’m interested in be software engineer and cybersecurity
 - 🌱 I’m currently learning Spring Boot
-- 📫 How to reach me vitorgmb2000@hotmail.com or (11) 9 96387-4178
+- 📫 How to reach me vitorgmb2000@hotmail.com or (11) 9 6387-4178
 
 
 "Haverá um colapso nas áreas de TI e Inovação no pós-pandemia; Entenda! ... 
